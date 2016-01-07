@@ -83,7 +83,7 @@ En effet, ce genre de règles déterminent un état final du design, qui doit s�
 ```
 #### 5.Theme
 ----
-Parfois dans un projet peut comporter différents thèmes qui peuvent etre changés en fonction des choix de l'utilisateur ou de l'équipe.
+Parfois un projet peut comporter différents thèmes qui peuvent être changés en fonction des choix de l'utilisateur ou de l'équipe.
 
 Alors on peut décupler l'apparence de la structure des modules pour pouvoir changer facilement de designs.
 
